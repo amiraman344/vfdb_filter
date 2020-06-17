@@ -1,0 +1,617 @@
+Query= core/473/1/Org1_Gene1333
+         (426 letters)
+
+
+
+
+ Distribution of 11 Blast Hits on the Query Sequence 
+
+Mouse-over to show defline and scores. Click to show alignments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+VFG023751  (lcrO/yscI) putative type III secretion protein [...    32   0.62  
+VFG003485  (lcrO/yscI) putative type III secretion protein [...    32   1.1   
+VFG016036  (pvdD) non-ribosomal siderophore peptide syntheta...    31   1.8   
+VFG040845  (sca2) cell surface antigen Sca2 [Sca2] [Ricketts...    30   2.3   
+VFG000408  (lcrO/yscI) type III secretion system inner rod p...    30   2.3   
+VFG040850  (sca2) cell surface antigen Sca2 [Sca2] [Ricketts...    29   5.2   
+VFG040846  (sca2) cell surface antigen Sca2 [Sca2] [Ricketts...    29   5.2   
+VFG016042  (pvdI) linear gramicidin synthetase subunit D [Py...    29   6.8   
+VFG007631  (wzc) chain length regulator (capsular polysaccha...    28   8.9   
+VFG005393  (gtfD) glucosyltransferase-S [Streptococcal gluco...    28   8.9   
+VFG005152  (emm) emm28 protein [M protein] [Streptococcus py...    28   8.9   
+
+>VFG023751 (lcrO/yscI) putative type III secretion protein [TTSS (ysc-yop)
+           secretion apparatus] [Yersinia enterocolitica subsp.
+           palearctica 105.5R(r)]
+          Length = 115
+
+ Score = 32.3 bits (200), Expect = 0.62
+ Identities = 20/62 (32%), Positives = 29/62 (46%), Gaps = 1/62 (1%)
+
+Query: 276 ANEKVLLQLEEIGDVKNVDKYIARVKDKNDNFKLMGFGHRVYKSYDPRAKILKGLKDELH 335
+           A+E ++  LEE+G V+   + I R  D   +    G GH + K      K  K  K +LH
+Sbjct: 9   ADEVIITTLEELGPVEPTTEQIMRF-DAAMSEDTQGLGHSLLKEVSDIQKTFKTAKSDLH 67
+
+Query: 336 KK 337
+            K
+Sbjct: 68  TK 69
+
+
+
+>VFG003485 (lcrO/yscI) putative type III secretion protein [TTSS (ysc-yop)
+           secretion apparatus] [Yersinia enterocolitica subsp.
+           enterocolitica 8081]
+          Length = 115
+
+ Score = 31.6 bits (300), Expect = 1.1
+ Identities = 20/62 (32%), Positives = 28/62 (45%), Gaps = 1/62 (1%)
+
+Query: 276 ANEKVLLQLEEIGDVKNVDKYIARVKDKNDNFKLMGFGHRVYKSYDPRAKILKGLKDELH 335
+           A+E ++  LEE G V+   + I R  D   +    G GH + K      K  K  K +LH
+Sbjct: 9   ADEVIITTLEEFGPVEPTTEQIMRF-DAAMSEDTQGLGHSLLKEVSDIQKTFKTAKSDLH 67
+
+Query: 336 KK 337
+            K
+Sbjct: 68  TK 69
+
+
+
+>VFG016036 (pvdD) non-ribosomal siderophore peptide synthetase [Pyoverdine]
+            [Pseudomonas putida KT2440]
+          Length = 3470
+
+ Score = 30.8 bits (100), Expect = 1.8
+ Identities = 15/58 (30%), Positives = 29/58 (50%)
+
+Query: 108  LRHRSFVHESLLNMFSAFPSNAHPMAKLSSGVSILSTLYSTHQNMHTEEDYQTMARRI 165
+            LR R  + +S +   +A      P+  L++ V+  + ++  H    T  DY+ +ARR+
+Sbjct: 3178 LRLRDLIQKSTIAELTAVAGKHSPLLSLNAPVAGQAPMFCVHAGFGTVFDYEPLARRL 3235
+
+
+
+>VFG040845 (sca2) cell surface antigen Sca2 [Sca2] [Rickettsia massiliae
+           AZT80]
+          Length = 1845
+
+ Score = 30.4 bits (67), Expect = 2.3
+ Identities = 17/42 (40%), Positives = 25/42 (59%), Gaps = 2/42 (4%)
+
+Query: 333 ELHKK-GVKMDERLSEIAAKVEEIAL-KDEYFIERNLYPNVD 372
+           EL KK G   DE ++ IA+   ++ L K  Y+I+ N+ PN D
+Sbjct: 290 ELEKKFGADKDEAINYIASIATQMMLGKKSYYIDNNIIPNAD 331
+
+
+
+>VFG000408 (lcrO/yscI) type III secretion system inner rod protein LcrQ/YscJ
+           [TTSS] [Yersinia pestis CO92]
+          Length = 115
+
+ Score = 30.4 bits (400), Expect = 2.3
+ Identities = 19/62 (32%), Positives = 28/62 (45%), Gaps = 1/62 (1%)
+
+Query: 276 ANEKVLLQLEEIGDVKNVDKYIARVKDKNDNFKLMGFGHRVYKSYDPRAKILKGLKDELH 335
+           A+E ++  LEE+G  +     I R  D   +    G GH + K      K  K +K +LH
+Sbjct: 9   ADEVIITTLEELGPAEPTTDQIMRF-DAAMSEDTQGLGHSLLKEVSDIQKSFKTVKSDLH 67
+
+Query: 336 KK 337
+            K
+Sbjct: 68  TK 69
+
+
+
+>VFG040850 (sca2) cell surface antigen Sca2 [Sca2] [Rickettsia rhipicephali
+           3-7-female6-CWPP]
+          Length = 1845
+
+ Score = 29.3 bits (64), Expect = 5.2
+ Identities = 17/42 (40%), Positives = 24/42 (57%), Gaps = 2/42 (4%)
+
+Query: 333 ELHKK-GVKMDERLSEIAAKVEEIAL-KDEYFIERNLYPNVD 372
+           EL KK G   DE  + IA+   ++ L K  Y+I+ N+ PN D
+Sbjct: 269 ELEKKFGADKDEATNYIASIATQMMLGKKSYYIDNNIIPNAD 310
+
+
+
+>VFG040846 (sca2) cell surface antigen Sca2 [Sca2] [Rickettsia massiliae MTU5]
+          Length = 1805
+
+ Score = 29.3 bits (64), Expect = 5.2
+ Identities = 17/42 (40%), Positives = 24/42 (57%), Gaps = 2/42 (4%)
+
+Query: 333 ELHKK-GVKMDERLSEIAAKVEEIAL-KDEYFIERNLYPNVD 372
+           EL KK G   DE  + IA+   ++ L K  Y+I+ N+ PN D
+Sbjct: 290 ELEKKFGADKDEATNYIASIATQMMLGKKSYYIDNNIIPNAD 331
+
+
+
+>VFG016042 (pvdI) linear gramicidin synthetase subunit D [Pyoverdine]
+            [Pseudomonas aeruginosa PA7]
+          Length = 4991
+
+ Score = 28.9 bits (63), Expect = 6.8
+ Identities = 20/77 (25%), Positives = 36/77 (46%), Gaps = 5/77 (6%)
+
+Query: 100  ESLEFELELRHRSFVHESLLNMFSAFPSNA---HPMAKLSSGVSILSTLYSTHQNMHTEE 156
+            + L F L+LR    + +  +   S +  +A    P+  L++ V+    L+  H    T  
+Sbjct: 4694 KKLGFSLKLR--DLIQKPSIAALSGYDDSAAPPSPILALNAAVAGCPALFCVHAGFGTVF 4751
+
+Query: 157  DYQTMARRIVAKIPTLA 173
+            DY+ +ARR+  +   LA
+Sbjct: 4752 DYEPLARRLNGRRSVLA 4768
+
+
+
+>VFG007631 (wzc) chain length regulator (capsular polysaccharide biosynthesis)
+           [Capsular polysaccharide] [Vibrio fischeri ES114]
+          Length = 720
+
+ Score = 28.5 bits (62), Expect = 8.9
+ Identities = 14/51 (27%), Positives = 25/51 (49%)
+
+Query: 314 HRVYKSYDPRAKILKGLKDELHKKGVKMDERLSEIAAKVEEIALKDEYFIE 364
+           H  YKS   + K+L   KD L+ +  K+ +   E+     ++ L  E +I+
+Sbjct: 341 HPAYKSLIDKRKVLLAEKDRLNGQVQKLPKTQREVLRMQRDVELNQEIYIQ 391
+
+
+
+>VFG005393 (gtfD) glucosyltransferase-S [Streptococcal glucosyltransferases]
+            [Streptococcus mutans UA159]
+          Length = 1462
+
+ Score = 28.5 bits (62), Expect = 8.9
+ Identities = 17/46 (36%), Positives = 25/46 (54%), Gaps = 5/46 (10%)
+
+Query: 36   TTGFFSYDPG--YSSTAGCQSKISYINGKKGELYY---RGHRIEDL 76
+            +TGF +   G  + ST+G Q+K S++   KG  YY    GH +  L
+Sbjct: 1095 STGFVNDGNGMTFYSTSGYQAKNSFVQDAKGNWYYFDNNGHMVYGL 1140
+
+
+
+>VFG005152 (emm) emm28 protein [M protein] [Streptococcus pyogenes MGAS6180]
+          Length = 393
+
+ Score = 28.5 bits (62), Expect = 8.9
+ Identities = 15/55 (27%), Positives = 29/55 (52%), Gaps = 1/55 (1%)
+
+Query: 318 KSYDPRAKILKGLKDELHKKGVKMDERLSEIAAKVEEIALKDEYFIERNLYPNVD 372
+           K  +PR K L+G   +L +K  K  +++ ++  K + +  K E  +ER+    +D
+Sbjct: 83  KEEEPRYKALRGENQDLREKEGKYQDKIKKLEEKEKNLEKKSE-DVERHYLKKLD 136
+navid
+
+
+
+  Database: VFDB full dataset - all proteins related to known and
+  predicted VFs
+    Posted date:  Nov 1, 2019 10:09 AM
+  Number of letters in database: 13,329,073
+  Number of sequences in database:  28,616
+  
+Lambda     K      H
+   0.319    0.136    0.396 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Hits to DB: 10,679,776
+Number of Sequences: 28616
+Number of extensions: 449444
+Number of successful extensions: 1515
+Number of sequences better than 10.0: 11
+Number of HSP's better than 10.0 without gapping: 2
+Number of HSP's successfully gapped in prelim test: 9
+Number of HSP's that attempted gapping in prelim test: 1509
+Number of HSP's gapped (non-prelim): 15
+length of query: 426
+length of database: 13,329,073
+effective HSP length: 103
+effective length of query: 323
+effective length of database: 10,381,625
+effective search space: 3353264875
+effective search space used: 3353264875
+T: 11
+A: 40
+X1: 16 ( 7.4 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (21.8 bits)
+S2: 62 (28.5 bits)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Query= core/489/1/Org1_Gene946
+         (421 letters)
+
+
+
+
+ Distribution of 15 Blast Hits on the Query Sequence 
+
+Mouse-over to show defline and scores. Click to show alignments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+VFG044165  (entS) enterobactin exporter, iron-regulated [ent...    35   0.12  
+VFG048460  (Kvar_3759) major facilitator superfamily protein...    33   0.27  
+VFG048457  (KPN2242_05905) enterobactin exporter EntS [Ent s...    33   0.27  
+VFG048455  (KPHS_14440) enterobactin exporter EntS [Ent side...    33   0.27  
+VFG048454  (entS) enterobactin exporter EntS [Ent siderophor...    33   0.27  
+VFG048459  (ybdA) enterobactin exporter EntS [Ent] [Klebsiel...    33   0.27  
+VFG048451  (A225_1604) enterobactin exporter EntS [Ent sider...    33   0.46  
+VFG046163  (CbuK_1302) hypothetical membrane-associated prot...    30   3.0   
+VFG046165  (COXBURSA331_A0649) hypothetical protein [T4SS ef...    30   3.9   
+VFG046164  (CBUD_1528) hypothetical membrane associated prot...    30   3.9   
+VFG046166  (CBU_0534) Coxiella Dot/Icm type IVB secretion sy...    30   3.9   
+VFG042136  (mlr6323) putative resolvase [T3SS] [Mesorhizobiu...    29   5.1   
+VFG020565  (invE) cell invasion protein [TTSS (SPI-1 encode)...    28   8.8   
+VFG037336  (basD) acinetobactin biosynthesis protein [Acinet...    28   8.8   
+VFG037334  (basD) Non-ribosomal peptide synthetase modules-r...    28   8.8   
+
+>VFG044165 (entS) enterobactin exporter, iron-regulated [enterobactin]
+           [Escherichia coli CFT073]
+          Length = 416
+
+ Score = 34.7 bits (400), Expect = 0.12
+ Identities = 18/42 (42%), Positives = 24/42 (57%)
+
+Query: 267 ECMLSKVDGVMNAISVIGDKVGETLYYGAGAGGEPTASAVIS 308
+           E ML +++G+  A +V GD +G  L  G GA   P ASA  S
+Sbjct: 342 EAMLGRINGLWTAQNVTGDAIGAALLGGLGAMMTPVASASAS 383
+
+
+
+>VFG048460 (Kvar_3759) major facilitator superfamily protein [Ent siderophore]
+           [Klebsiella variicola At-22]
+          Length = 413
+
+ Score = 33.5 bits (75), Expect = 0.27
+ Identities = 18/42 (42%), Positives = 24/42 (57%)
+
+Query: 267 ECMLSKVDGVMNAISVIGDKVGETLYYGAGAGGEPTASAVIS 308
+           E ML +++G+  A +V GD +G  L  G GA   P ASA  S
+Sbjct: 342 ENMLGRINGLWTAQNVTGDAIGAALLGGLGAVMTPAASASAS 383
+
+
+
+>VFG048457 (KPN2242_05905) enterobactin exporter EntS [Ent siderophore]
+           [Klebsiella pneumoniae KCTC 2242]
+          Length = 413
+
+ Score = 33.5 bits (75), Expect = 0.27
+ Identities = 18/42 (42%), Positives = 24/42 (57%)
+
+Query: 267 ECMLSKVDGVMNAISVIGDKVGETLYYGAGAGGEPTASAVIS 308
+           E ML +++G+  A +V GD +G  L  G GA   P ASA  S
+Sbjct: 342 EHMLGRINGLWTAQNVTGDAIGAALLGGLGAVMTPAASASAS 383
+
+
+
+>VFG048455 (KPHS_14440) enterobactin exporter EntS [Ent siderophore]
+           [Klebsiella pneumoniae subsp. pneumoniae HS11286]
+          Length = 413
+
+ Score = 33.5 bits (75), Expect = 0.27
+ Identities = 18/42 (42%), Positives = 24/42 (57%)
+
+Query: 267 ECMLSKVDGVMNAISVIGDKVGETLYYGAGAGGEPTASAVIS 308
+           E ML +++G+  A +V GD +G  L  G GA   P ASA  S
+Sbjct: 342 EHMLGRINGLWTAQNVTGDAIGAALLGGLGAVMTPAASASAS 383
+
+
+
+>VFG048454 (entS) enterobactin exporter EntS [Ent siderophore] [Klebsiella
+           pneumoniae 342]
+          Length = 413
+
+ Score = 33.5 bits (75), Expect = 0.27
+ Identities = 18/42 (42%), Positives = 24/42 (57%)
+
+Query: 267 ECMLSKVDGVMNAISVIGDKVGETLYYGAGAGGEPTASAVIS 308
+           E ML +++G+  A +V GD +G  L  G GA   P ASA  S
+Sbjct: 342 EHMLGRINGLWTAQNVTGDAIGAALLGGLGAVMTPAASASAS 383
+
+
+
+>VFG048459 (ybdA) enterobactin exporter EntS [Ent] [Klebsiella pneumoniae
+           subsp. pneumoniae NTUH-K2044]
+          Length = 413
+
+ Score = 33.5 bits (75), Expect = 0.27
+ Identities = 18/42 (42%), Positives = 24/42 (57%)
+
+Query: 267 ECMLSKVDGVMNAISVIGDKVGETLYYGAGAGGEPTASAVIS 308
+           E ML +++G+  A +V GD +G  L  G GA   P ASA  S
+Sbjct: 342 EHMLGRINGLWTAQNVTGDAIGAALLGGLGAVMTPAASASAS 383
+
+
+
+>VFG048451 (A225_1604) enterobactin exporter EntS [Ent siderophore]
+           [Klebsiella oxytoca E718]
+          Length = 413
+
+ Score = 32.7 bits (73), Expect = 0.46
+ Identities = 18/42 (42%), Positives = 24/42 (57%)
+
+Query: 267 ECMLSKVDGVMNAISVIGDKVGETLYYGAGAGGEPTASAVIS 308
+           E ML +++G+  A +V GD +G  L  G GA   P ASA  S
+Sbjct: 342 ENMLGRINGLWTAQNVTGDAIGAALLGGLGAILTPAASASAS 383
+
+
+
+>VFG046163 (CbuK_1302) hypothetical membrane-associated protein [T4SS
+           effectors] [Coxiella burnetii CbuK_Q154]
+          Length = 398
+
+ Score = 30.0 bits (66), Expect = 3.0
+ Identities = 19/104 (18%), Positives = 49/104 (47%), Gaps = 2/104 (1%)
+
+Query: 320 LMLGFETPQKLPLKPKEEIQCSYYARLLVSDEKGVFSQISAILAQNDISLNNVLQKEIPH 379
+           L + FE  +++ L     +      ++ +   +  +S +    +Q+D+S  + L+   P 
+Sbjct: 178 LAMNFEPIKEIILDQVSHLSFEAQQKIFLQSNRSGYSPLLLFASQHDLSQYSPLRGLFPK 237
+
+Query: 380 SNKAKILFS--THTTNEKSMLNALKELENLQSVLDTPKMIRLEN 421
+              A+ LFS   H  N +   N + +++ +++V++    + L++
+Sbjct: 238 KELAQSLFSQLAHLANIREGDNGIADVDFIKNVIENNLSLLLKH 281
+
+
+
+>VFG046165 (COXBURSA331_A0649) hypothetical protein [T4SS effectors] [Coxiella
+           burnetii RSA 331]
+          Length = 398
+
+ Score = 29.6 bits (65), Expect = 3.9
+ Identities = 19/104 (18%), Positives = 49/104 (47%), Gaps = 2/104 (1%)
+
+Query: 320 LMLGFETPQKLPLKPKEEIQCSYYARLLVSDEKGVFSQISAILAQNDISLNNVLQKEIPH 379
+           L + FE  +++ L     +      ++ +   +  +S +    +Q+D+S  + L+   P 
+Sbjct: 178 LAMNFEPIKEIILDQVSHLSFEAQQQIFLQSNRSGYSPLLLFASQHDLSQYSPLRGLFPK 237
+
+Query: 380 SNKAKILFS--THTTNEKSMLNALKELENLQSVLDTPKMIRLEN 421
+              A+ LFS   H  N +   N + +++ +++V++    + L++
+Sbjct: 238 KELAQSLFSQLAHLANIREGDNGIADVDFIKNVIENNLSLLLKH 281
+
+
+
+>VFG046164 (CBUD_1528) hypothetical membrane associated protein [T4SS
+           effectors] [Coxiella burnetii Dugway 5J108-111]
+          Length = 398
+
+ Score = 29.6 bits (65), Expect = 3.9
+ Identities = 19/104 (18%), Positives = 49/104 (47%), Gaps = 2/104 (1%)
+
+Query: 320 LMLGFETPQKLPLKPKEEIQCSYYARLLVSDEKGVFSQISAILAQNDISLNNVLQKEIPH 379
+           L + FE  +++ L     +      ++ +   +  +S +    +Q+D+S  + L+   P 
+Sbjct: 178 LAMNFEPIKEIILDQVSHLSFEAQQQIFLQSNRSGYSPLLLFASQHDLSQYSPLRGLFPK 237
+
+Query: 380 SNKAKILFS--THTTNEKSMLNALKELENLQSVLDTPKMIRLEN 421
+              A+ LFS   H  N +   N + +++ +++V++    + L++
+Sbjct: 238 KELAQSLFSQLAHLANIREGDNGIADVDFIKNVIENNLSLLLKH 281
+
+
+
+>VFG046166 (CBU_0534) Coxiella Dot/Icm type IVB secretion system translocated
+           effector [T4SS effectors] [Coxiella burnetii RSA 493]
+          Length = 398
+
+ Score = 29.6 bits (65), Expect = 3.9
+ Identities = 19/104 (18%), Positives = 49/104 (47%), Gaps = 2/104 (1%)
+
+Query: 320 LMLGFETPQKLPLKPKEEIQCSYYARLLVSDEKGVFSQISAILAQNDISLNNVLQKEIPH 379
+           L + FE  +++ L     +      ++ +   +  +S +    +Q+D+S  + L+   P 
+Sbjct: 178 LAMNFEPIKEIILDQVSHLSFEAQQQIFLQSNRSGYSPLLLFASQHDLSQYSPLRGLFPK 237
+
+Query: 380 SNKAKILFS--THTTNEKSMLNALKELENLQSVLDTPKMIRLEN 421
+              A+ LFS   H  N +   N + +++ +++V++    + L++
+Sbjct: 238 KELAQSLFSQLAHLANIREGDNGIADVDFIKNVIENNLSLLLKH 281
+
+
+
+>VFG042136 (mlr6323) putative resolvase [T3SS] [Mesorhizobium loti MAFF303099]
+          Length = 755
+
+ Score = 29.3 bits (64), Expect = 5.1
+ Identities = 29/109 (26%), Positives = 49/109 (44%), Gaps = 8/109 (7%)
+
+Query: 306 VISDIIEIARKKSSLMLG---FETPQKLPLKPKEEIQCSYYARL-LVSDEKGVFSQISAI 361
+           V+S + +  R K   ++G   +  P     K  E  + +YY  L L SD +    +I A 
+Sbjct: 250 VLSQLRDRIRAKEIWVVGADHYRNPDDDLPKDFESRRAAYYNALNLTSDARAFTRKIQAE 309
+
+Query: 362 LAQNDISLNNVLQKEIPHSNKAKILFSTHTTNEKSMLNALKELENLQSV 410
+           L +       +L  E+P ++KA+IL+        +    L E + L+SV
+Sbjct: 310 LERE----LRLLNAELPRNDKARILWRGENRISITPFQPLPEPQGLRSV 354
+
+
+
+>VFG020565 (invE) cell invasion protein [TTSS (SPI-1 encode)] [Salmonella
+           enterica subsp. enterica serovar Paratyphi C strain
+           RKS4594]
+          Length = 372
+
+ Score = 28.5 bits (62), Expect = 8.8
+ Identities = 24/84 (28%), Positives = 35/84 (41%), Gaps = 7/84 (8%)
+
+Query: 270 LSKVDGVMNAISVIGDKVGETLYYGAGAGGEPTASAVI-------SDIIEIARKKSSLML 322
+           L K   ++  ISV G  + + L        +P+  A++        D+ EI RKK   +L
+Sbjct: 91  LPKAKQILKLISVHGGALEDFLRQARSLFPDPSDLALVLRELLRRKDLEEIVRKKLESLL 150
+
+Query: 323 GFETPQKLPLKPKEEIQCSYYARL 346
+                Q  P   K  I C+  ARL
+Sbjct: 151 KHVEEQTDPKTLKAGINCALKARL 174
+
+
+
+>VFG037336 (basD) acinetobactin biosynthesis protein [Acinetobactin]
+           [Acinetobacter baumannii D1279779]
+          Length = 980
+
+ Score = 28.5 bits (500), Expect = 8.8
+ Identities = 29/107 (45%), Positives = 48/107 (44%), Gaps = 10/107 (9%)
+
+Query: 298 GGEPTASAVISDIIEIARKKSSLMLGFETPQKLPLKPKEEIQCSYYARLLVSDEKGVFSQ 357
+           G E + S   +D+    RK S L      P K PL   + +  S Y R  +  EK  F Q
+Sbjct: 632 GVENSVSVHQTDMAYWERKFSKLSAIPTLPWKTPL---QHLPTSRYQRNSLVIEKDQFKQ 688
+
+Query: 358 ISAILAQNDISLNNVLQKEIPHSNKAKILFSTHTTNEKSMLNALKEL 404
+           +S I A++ +  N+++   I       +   +H + +KS+  A+  L
+Sbjct: 689 LSKIGAKHSLFKNSIIMAII-------LEVLSHWSTDKSLCVAVPTL 728
+
+
+
+>VFG037334 (basD) Non-ribosomal peptide synthetase modules-related protein
+           [Acinetobactin] [Acinetobacter baumannii BJAB0715]
+          Length = 980
+
+ Score = 28.5 bits (400), Expect = 8.8
+ Identities = 30/105 (35%), Positives = 46/105 (43%), Gaps = 10/105 (9%)
+
+Query: 300 EPTASAVISDIIEIARKKSSLMLGFETPQKLPLKPKEEIQCSYYARLLVSDEKGVFSQIS 359
+           E + S   +D+    RK S L      P K PL   + +  S+Y R  +  EK  F Q+S
+Sbjct: 634 ENSLSVHQADMAYWERKFSKLSAIPALPWKTPL---QHLPTSHYQRNSLVIEKDQFKQLS 690
+
+Query: 360 AILAQNDISLNNVLQKEIPHSNKAKILFSTHTTNEKSMLNALKEL 404
+            I A+  +  N+V+   I       +   +H   EKS+  A+  L
+Sbjct: 691 KIGAKYSLFKNSVIMALI-------LEVLSHWNTEKSLCVAVPTL 728
+navid
+
+
+
+  Database: VFDB full dataset - all proteins related to known and
+  predicted VFs
+    Posted date:  Nov 1, 2019 10:09 AM
+  Number of letters in database: 13,329,073
+  Number of sequences in database:  28,616
+  
+Lambda     K      H
+   0.317    0.135    0.374 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Hits to DB: 8,987,854
+Number of Sequences: 28616
+Number of extensions: 335796
+Number of successful extensions: 1137
+Number of sequences better than 10.0: 15
+Number of HSP's better than 10.0 without gapping: 7
+Number of HSP's successfully gapped in prelim test: 8
+Number of HSP's that attempted gapping in prelim test: 1130
+Number of HSP's gapped (non-prelim): 15
+length of query: 421
+length of database: 13,329,073
+effective HSP length: 103
+effective length of query: 318
+effective length of database: 10,381,625
+effective search space: 3301356750
+effective search space used: 3301356750
+T: 11
+A: 40
+X1: 16 ( 7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (21.6 bits)
+S2: 62 (28.5 bits)
+
